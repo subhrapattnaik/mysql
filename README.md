@@ -22,3 +22,8 @@ MySQL Community Server
 \
 
 download the latest dmg
+
+
+\
+
+install it
